@@ -1,0 +1,1 @@
+All luts have been created in Lightroom Ektachrome need a little editing when used, mainly the colour balance which can be adjusted in the color tab, lightroom will reconize the lut and give the right recomndation according to the photo, but you need to actually make the change on your own, 
