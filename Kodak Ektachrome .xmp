@@ -1,0 +1,249 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 7.0-c000 1.000000, 0000/00/00-00:00:00        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+   crs:PresetType="Normal"
+   crs:Cluster=""
+   crs:UUID="367B1A5CD8344749B7FFBD621697895E"
+   crs:SupportsAmount2="True"
+   crs:SupportsAmount="True"
+   crs:SupportsColor="True"
+   crs:SupportsMonochrome="True"
+   crs:SupportsHighDynamicRange="True"
+   crs:SupportsNormalDynamicRange="True"
+   crs:SupportsSceneReferred="True"
+   crs:SupportsOutputReferred="True"
+   crs:RequiresRGBTables="False"
+   crs:ShowInPresets="True"
+   crs:ShowInQuickActions="False"
+   crs:CameraModelRestriction=""
+   crs:Copyright=""
+   crs:ContactInfo=""
+   crs:Version="17.5"
+   crs:CompatibleVersion="251854848"
+   crs:ProcessVersion="15.4"
+   crs:WhiteBalance="Custom"
+   crs:Temperature="4807"
+   crs:Tint="+18"
+   crs:Exposure2012="-0.68"
+   crs:Contrast2012="-30"
+   crs:Highlights2012="+75"
+   crs:Shadows2012="+44"
+   crs:Whites2012="-47"
+   crs:Blacks2012="+30"
+   crs:Texture="0"
+   crs:Clarity2012="-7"
+   crs:Dehaze="-21"
+   crs:Vibrance="+11"
+   crs:Saturation="-12"
+   crs:ParametricShadows="0"
+   crs:ParametricDarks="0"
+   crs:ParametricLights="0"
+   crs:ParametricHighlights="0"
+   crs:ParametricShadowSplit="25"
+   crs:ParametricMidtoneSplit="50"
+   crs:ParametricHighlightSplit="75"
+   crs:Sharpness="40"
+   crs:SharpenRadius="+1.0"
+   crs:SharpenDetail="25"
+   crs:SharpenEdgeMasking="0"
+   crs:LuminanceSmoothing="0"
+   crs:ColorNoiseReduction="25"
+   crs:ColorNoiseReductionDetail="50"
+   crs:ColorNoiseReductionSmoothness="50"
+   crs:HueAdjustmentRed="+20"
+   crs:HueAdjustmentOrange="+4"
+   crs:HueAdjustmentYellow="+48"
+   crs:HueAdjustmentGreen="-50"
+   crs:HueAdjustmentAqua="+55"
+   crs:HueAdjustmentBlue="-10"
+   crs:HueAdjustmentPurple="0"
+   crs:HueAdjustmentMagenta="0"
+   crs:SaturationAdjustmentRed="+38"
+   crs:SaturationAdjustmentOrange="-12"
+   crs:SaturationAdjustmentYellow="-23"
+   crs:SaturationAdjustmentGreen="-13"
+   crs:SaturationAdjustmentAqua="+100"
+   crs:SaturationAdjustmentBlue="-59"
+   crs:SaturationAdjustmentPurple="-100"
+   crs:SaturationAdjustmentMagenta="-58"
+   crs:LuminanceAdjustmentRed="+10"
+   crs:LuminanceAdjustmentOrange="+2"
+   crs:LuminanceAdjustmentYellow="+2"
+   crs:LuminanceAdjustmentGreen="+30"
+   crs:LuminanceAdjustmentAqua="+36"
+   crs:LuminanceAdjustmentBlue="+78"
+   crs:LuminanceAdjustmentPurple="-33"
+   crs:LuminanceAdjustmentMagenta="-48"
+   crs:SplitToningShadowHue="358"
+   crs:SplitToningShadowSaturation="17"
+   crs:SplitToningHighlightHue="117"
+   crs:SplitToningHighlightSaturation="12"
+   crs:SplitToningBalance="+45"
+   crs:ColorGradeMidtoneHue="233"
+   crs:ColorGradeMidtoneSat="19"
+   crs:ColorGradeShadowLum="-5"
+   crs:ColorGradeMidtoneLum="0"
+   crs:ColorGradeHighlightLum="+10"
+   crs:ColorGradeBlending="100"
+   crs:ColorGradeGlobalHue="282"
+   crs:ColorGradeGlobalSat="0"
+   crs:ColorGradeGlobalLum="0"
+   crs:AutoLateralCA="1"
+   crs:LensManualDistortionAmount="0"
+   crs:DefringePurpleAmount="0"
+   crs:DefringePurpleHueLo="30"
+   crs:DefringePurpleHueHi="70"
+   crs:DefringeGreenAmount="0"
+   crs:DefringeGreenHueLo="40"
+   crs:DefringeGreenHueHi="60"
+   crs:PerspectiveUpright="0"
+   crs:PerspectiveVertical="0"
+   crs:PerspectiveHorizontal="0"
+   crs:PerspectiveRotate="0.0"
+   crs:PerspectiveAspect="0"
+   crs:PerspectiveScale="100"
+   crs:PerspectiveX="0.00"
+   crs:PerspectiveY="0.00"
+   crs:GrainAmount="13"
+   crs:GrainSize="15"
+   crs:GrainFrequency="16"
+   crs:PostCropVignetteAmount="-31"
+   crs:PostCropVignetteMidpoint="50"
+   crs:PostCropVignetteFeather="50"
+   crs:PostCropVignetteRoundness="0"
+   crs:PostCropVignetteStyle="1"
+   crs:PostCropVignetteHighlightContrast="0"
+   crs:ShadowTint="0"
+   crs:RedHue="0"
+   crs:RedSaturation="0"
+   crs:GreenHue="0"
+   crs:GreenSaturation="0"
+   crs:BlueHue="0"
+   crs:BlueSaturation="0"
+   crs:HDREditMode="0"
+   crs:CurveRefineSaturation="100"
+   crs:OverrideLookVignette="True"
+   crs:ToneCurveName2012="Custom"
+   crs:HasSettings="True"
+   crs:CropConstrainToWarp="0"
+   crs:AsShotTemperature="5200"
+   crs:AsShotTint="16">
+   <crs:Name>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Kodak Ektachrome </rdf:li>
+    </rdf:Alt>
+   </crs:Name>
+   <crs:ShortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:ShortName>
+   <crs:SortName>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:SortName>
+   <crs:Group>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Group>
+   <crs:Description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default"/>
+    </rdf:Alt>
+   </crs:Description>
+   <crs:ToneCurvePV2012>
+    <rdf:Seq>
+     <rdf:li>0, 18</rdf:li>
+     <rdf:li>41, 37</rdf:li>
+     <rdf:li>204, 210</rdf:li>
+     <rdf:li>255, 236</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012>
+   <crs:ToneCurvePV2012Red>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>35, 20</rdf:li>
+     <rdf:li>110, 125</rdf:li>
+     <rdf:li>177, 204</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Red>
+   <crs:ToneCurvePV2012Green>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>35, 20</rdf:li>
+     <rdf:li>110, 125</rdf:li>
+     <rdf:li>177, 204</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Green>
+   <crs:ToneCurvePV2012Blue>
+    <rdf:Seq>
+     <rdf:li>0, 0</rdf:li>
+     <rdf:li>35, 20</rdf:li>
+     <rdf:li>110, 125</rdf:li>
+     <rdf:li>177, 204</rdf:li>
+     <rdf:li>255, 255</rdf:li>
+    </rdf:Seq>
+   </crs:ToneCurvePV2012Blue>
+   <crs:MaskGroupBasedCorrections>
+    <rdf:Seq>
+     <rdf:li>
+      <rdf:Description
+       crs:What="Correction"
+       crs:CorrectionAmount="1"
+       crs:CorrectionActive="true"
+       crs:CorrectionName="Warm Pop"
+       crs:CorrectionSyncID="5601D9FAFB88361404A96FC371E51C68"
+       crs:LocalExposure="0"
+       crs:LocalHue="0"
+       crs:LocalSaturation="0"
+       crs:LocalContrast="0"
+       crs:LocalClarity="0"
+       crs:LocalSharpness="0"
+       crs:LocalBrightness="0"
+       crs:LocalToningHue="0"
+       crs:LocalToningSaturation="0"
+       crs:LocalExposure2012="0"
+       crs:LocalContrast2012="-0.065421"
+       crs:LocalHighlights2012="0.364486"
+       crs:LocalShadows2012="0.448598"
+       crs:LocalWhites2012="0.757009"
+       crs:LocalBlacks2012="-0.11215"
+       crs:LocalClarity2012="0.1"
+       crs:LocalDehaze="0"
+       crs:LocalLuminanceNoise="0"
+       crs:LocalMoire="0"
+       crs:LocalDefringe="0"
+       crs:LocalTemperature="0.421594"
+       crs:LocalTint="0"
+       crs:LocalTexture="0.201457"
+       crs:LocalCurveRefineSaturation="100">
+      <crs:CorrectionMasks>
+       <rdf:Seq>
+        <rdf:li
+         crs:What="Mask/Image"
+         crs:MaskActive="true"
+         crs:MaskName="Subject 1"
+         crs:MaskBlendMode="0"
+         crs:MaskInverted="false"
+         crs:MaskSyncID="04FB56589A174B11A7A7AE2127B276FE"
+         crs:MaskValue="1"
+         crs:MaskVersion="1"
+         crs:MaskSubType="1"
+         crs:ReferencePoint="0.500000 0.500000"
+         crs:LocalInputDigest="13E74E479EAD720768D80D564B5ED19D"
+         crs:LocalInputDigestVersion="1"
+         crs:ErrorReason="0"/>
+       </rdf:Seq>
+      </crs:CorrectionMasks>
+      </rdf:Description>
+     </rdf:li>
+    </rdf:Seq>
+   </crs:MaskGroupBasedCorrections>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
